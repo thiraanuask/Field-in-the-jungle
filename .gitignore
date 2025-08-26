@@ -1,0 +1,60 @@
+# System files
+Thumbs.db
+Thumbs.db.meta
+*.DS_Store
+*.directory
+.vs
+.vscode
+
+# Build files
+*.apk
+*.obb
+
+# Lightmaps
+*.exr
+*.exr.meta
+LightmapSnapshot.asset
+LightmapSnapshot.asset.meta
+LightingData.asset
+LightingData.asset.meta
+
+# Visual Studio files
+*.cachefile
+*.csproj
+*.pidb
+*.sln
+*.suo
+*.unityproj
+*.user
+*.userprefs
+*.v11
+*.v12
+
+.vsconfig
+
+# Folder to exclude
+[Bb]in
+[Dd]ebug*/
+[Rr]elease*/
+[Bb]uilds/
+ipch/
+[Ll]ibrary/
+obj/
+[Tt]emp/
+UWP/
+[Ww]indowsStore/
+WS/
+UnityVS/
+UnityVS.meta
+[Ll]og*/
+.idea/
+[Uu]serSettings/
+
+# Substance cache folder
+.SourceCache/
+
+# Folders to keep
+!Assets/Vendors/InControl/Source/Debug/
+
+/bakery_times.log
+/UserSettings/EditorUserSettings.asset
